@@ -720,12 +720,20 @@ nav {
 .skill-icon {
     font-size: 3rem;
     margin-bottom: 1rem;
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    /* background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)); */
+    /* -webkit-background-clip: text; */
+    /* -webkit-text-fill-color: transparent; */
     background-clip: text;
     animation: bounce 2s infinite;
     transition: transform 0.3s ease;
+}
+
+.skill-icon img {
+    width: 1em;              /* matches .skill-icon's font size (3rem) */
+    height: 1em;             /* keeps it square */
+    object-fit: contain;     /* keeps full image visible without cropping */
+    display: inline-block;   /* makes it behave like text/emoji */
+    vertical-align: middle;  /* aligns with text baseline */
 }
 
 .skill-category:hover .skill-icon {
