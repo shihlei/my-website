@@ -515,6 +515,8 @@ nav {
 
 .project-content {
     padding: 2rem;
+    position: relative;
+    z-index: 2;
 }
 
 .project-title {
