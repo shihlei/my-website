@@ -736,7 +736,6 @@ nav {
     object-fit: contain;     /* keeps full image visible without cropping */
     display: inline-block;   /* makes it behave like text/emoji */
     vertical-align: middle;  /* aligns with text baseline */
-    
 }
 
 .skill-category:hover .skill-icon {
