@@ -5,7 +5,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and exper
 
 ## 🚀 Live Demo
 
-[View Live Website](#)
+[View Live Website](https://shihlei.github.io/my-website/)
 
 
 ## 🚀 Getting Started
