@@ -334,7 +334,7 @@ nav {
     width: fit-content;
     animation: 
         fadeInUp 1s ease-out 0.2s both,
-        typewriter 3s steps(30, end) 0.5s,
+        typewriter 1.5s steps(20, end) 0.5s,
         blink 0.75s step-end infinite 3.5s;
 }
 
