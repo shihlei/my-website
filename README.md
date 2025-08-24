@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A modern, responsive portfolio website showcasing my projects, skills, and experience as a web developer. Built with clean HTML, CSS, and JavaScript, featuring smooth animations and an elegant design.
+A modern, responsive portfolio website showcasing my projects, skills, and experience as a software engineer. Built with clean HTML, CSS, and JavaScript, featuring smooth animations and an elegant design.
 
 
 ## 🚀 Live Demo
