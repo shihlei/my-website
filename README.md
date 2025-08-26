@@ -14,12 +14,12 @@ A modern, responsive portfolio website showcasing my projects, skills, and exper
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/yourusername/my-website.git
    ```
 
 2. **Navigate to the project directory**
    ```bash
-   cd portfolio-website
+   cd my-website
    ```
 
 3. **Open in your browser**
