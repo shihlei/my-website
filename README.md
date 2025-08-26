@@ -20,22 +20,18 @@ A modern, responsive portfolio website showcasing my projects, skills, and exper
 2. **Navigate to the project directory**
    ```bash
    cd my-website
-   ```
 
-3. **Open in your browser**
-   ```bash
+   # Open in your browser: 
    # Simply open index.html in your preferred browser
    # Or use a local server like Live Server in VS Code
    ```
 
-### Quick Start
-
-1. **Install dependencies**
+3. **Install dependencies**
    ```bash
    npm install
    ```
 
-2. **Start the development server**
+4. **Start the development server**
    ```bash
    npm start
    ```
